@@ -1,0 +1,7 @@
+#include <iostream>> // Define jostream
+using namespace std;//menggunakan stsd
+int main() // program utama
+{
+    cout << "Hello world!!!\n"; // output code
+    return 0;
+}
